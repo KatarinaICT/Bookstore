@@ -1,0 +1,132 @@
+[
+    {
+        "id": 1,
+        "naslov": "Simeonov pečat",
+        "opis": "Ako ništa ne tražiš, ono što ne tražiš naći će tebe. Ko je i zašto zapalio manastir Hilandar? U potrazi za odgovorom na to pitanje, Novak i Veljko dolaze na Svetu Goru. Ali kada u maslinjaku iznad manastira nađu obešenog lažnog monaha, događaji počinju da se nižu neverovatnom brzinom. Na mestu svakog narednog zločina, pronalaze otisak pečata Svetog Simeona koji je monaško bratstvo Hilandara poklonilo kralju Aleksandru Obrenoviću, a potom mu se izgubio trag u burnim događajima tokom Prvog svetskog rata... U stvaranju Svetske crkve i borbi za prevlast postojećih religija u njoj, stvarni vladari sveta kuju planove koji će iznenaditi čovečanstvo. Novak i Veljko će se uplesti u obračun svetskih tajnih službi, i u ambijentu smirenog i Bogu posvećenog života svetogorskih monaha postaće taoci jedne velike afere. Skrivena u senci tog obračuna, mešetare militantna krila Katoličke crkve i opskurna tajna društva koja prete da ugroze hrišćanske relikvije...",
+        "brStrana": 380,
+        "datumIzdanja": "17. 04. 2013.",
+        "id_autor": 1,
+        "cirilica": true,
+        "tvrdPovez": true,
+        "slika": "simeonov_pecat",
+        "cena" : {
+            "nova": 699.99,
+            "stara": 999.99
+        },
+        "zanr": [1, 6]
+    },
+    {
+        "id": 2,
+        "naslov": "Tajni svet snova jedne kupoholičarke",
+        "opis": "Rebeka Blumvud je upravo postala gola k`o crkveni miš. Ali nikada nije bila bolje obučena... Upoznajte Rebeku Blumvud. Ona je novinar. Posao joj je da savetuje druge kako da upravljaju svojim novcem. Slobodno vreme provodi u... kupovini. Ona živi u luksuznom stanu u otmenoj četvrti Londona, druži se sa džet-setom, a ormar joj je krcat krpicama koje je jednostavno neophodno imati ove sezone. Jedina nevolja je što ona sebi sve ovo ne može da priušti – zapravo ništa od svega. Ona pokušava da prestane da troši, pokušava da zaradi više novca. Ali ništa od toga ne polazi joj za rukom. Jedina uteha koja joj preostaje jeste da kupi sebi nešto... ma samo neku sitnicu... Napokon pojavljuje se priča do koje je Rebeki stalo i njen članak sa naslovne strane uzrokuje lanac događaja koji će joj promeniti život – i živote onih oko nje – zauvek.",
+        "brStrana": 312,
+        "datumIzdanja": "20. 01. 2008.",
+        "id_autor": 2,
+        "cirilica": false,
+        "tvrdPovez": true,
+        "slika": "kupoholicarka",
+        "cena" : {
+            "nova": 629.99,
+            "stara": 899.99
+        },
+        "zanr":[2, 7]
+    },
+    {
+        "id": 3,
+        "naslov": "Vodenica na flosi",
+        "opis": "Porodica Taliver živi udobnim seoskim životom u Engleskoj dvadesetih godina devetnaestog veka. Tom je mladić ambiciozan u svojim planovima da se školuje. Megi je devojka koja voli da sanjari. Nad njihovu srećnu i bezbrižnu mladost nadvija se oblak crnih slutnji kada gospodin Taliver zapadne u finansijske probleme zbog kojih može izgubiti vodenicu na Flosi. Ta situacija samo će zbližiti brata i sestru. Ali okolnosti se samo pogoršavaju i oni su primorani da se suoče sa novom situacijom. Tom je trezven i spreman da se priključi porodičnom poslu. Megi je mnogo osetljivija. Pokušava da pobegne od stvarnosti i utehu nalazi u dugim, romantičnim šetnjama sa mladim gospodinom Filipom Vakemom. Njen voljeni brat ne odobrava vezu dvoje zaljubljenih. Krah u njihovoj doskora srećnoj porodici je na pomolu.",
+        "brStrana": 640,
+        "datumIzdanja": "03. 03. 2023.",
+        "id_autor": 3,
+        "cirilica": false,
+        "tvrdPovez": true,
+        "slika": "vodenica",
+        "cena" : {
+            "nova": 699.99,
+            "stara": 999.99
+        },
+        "zanr":[3,4]
+    },
+    {
+        "id": 4,
+        "naslov": "Aleksandar od Jugoslavije",
+        "opis": "Nije Jugoslavija greška. Greška smo svi mi, ovakvi kakvi smo sada... Gubili su Obrenovići ratove, a snažili Srbiju. Da li je to poraz? A on, evo, pobedio u svim ratovima, slavi ga ceo svet, a Srbija, biološki, na umoru. Da li je to pobeda? Da li je stvaranje Jugoslavije bilo veliko delo ili tragična zabluda – glasi pitanje nad pitanjima koje u novom romanu Vuka Draškovića sam sebi postavlja glavni protagonista, kralj Aleksandar Karađorđević, tvorac i prvi vladar nove države Južnih Slovena na početku XX veka. Sa kojim se dilemama nosio, sa kakvim se nasleđem i preprekama susreo po završetku Prvog svetskog rata, koje su domaće i strane sile ometale stvaranje velike države od Soluna do Alpa, koja je bila njegova državna ideja i kako je zamišljao budućeg građanina zemlje četiri puta veće od predratne Srbije – čitalac će saznati iz ove knjige koja preispituje istorijsku ulogu i uspostavlja ljudski lik kralja Aleksandra Karađorđevića, od stvaranja Kraljevine SHS 1918. do atentata u Marselju 1934. godine. Bez ulepšavanja i bez omalovažavanja, Vuk Drašković nam iznosi unutrašnju borbu i dileme regenta i kralja Aleksandra, proslavljenog vrhovnog komandanta Srpske vojske u Velikom ratu, koji nam, u jednoj dramatičnoj ispovesti, iznosi svoju viziju države, već tada ugrožene mnogim pukotinama. „Nije Jugoslavija greška“, govori sebi Aleksandar, suprotstavljajući se svojim oponentima. „Greška smo mi svi, ovakvi kakvi smo sada…“",
+        "brStrana": 384,
+        "datumIzdanja": "28. 12. 2018.",
+        "id_autor": 4,
+        "cirilica": true,
+        "tvrdPovez": false,
+        "slika": "aleksandar_od_jug",
+        "cena" : {
+            "nova": 629.99,
+            "stara": 899.99
+        },
+        "zanr":[4,6,5]
+    },
+    {
+        "id": 5,
+        "naslov": "Duge noći i crne zastave",
+        "opis": "Oluja se približava... I tri viteza joj kreću u susret. Prvi da bi sačuvao tajnu svog gospodara, drugi da bi dobio ruku žene koju voli, a treći da bi zario bodež u samo srce te oluje... Proleće 1386. godine. Granice Srbije potresaju upadi osmanlijskih pljačkaških hordi. U jednom takvom prepadu, brzi osmanlijski konjanici uspevaju da iz pograničnog manastira ukradu kivot čija je sadržina poznata samo srpskom knezu Lazaru Hrebeljanoviću. Lazar odlučuje da pošalje poteru i za taj zadatak bira dvojicu pripadnika viteškog Reda Zmaja – svog kuma, topličkog vojvodu Milana, i njegovog pobratima, čuvenog mačevaoca Ivana Kosančića. Njima se pridružuje i mladi, svojeglavi vitez Miloš Obilić, koji je zaprosio ruku najmlađe Lazareve kćeri. Trojka kreće u potragu prateći krvavi trag pljačkaša – od Lazareve prestonice Kruševca do Prilepa gde ih čeka stari prijatelj, kraljević Marko Mrnjavčević. U Prilepu nalaze trgovca starinama za koga se priča da je u dosluhu sa demonima. U isto vreme, silna osmanlijska vojska čeka utaborena kod Serdike, a kada glasovi predaka šapnu na uvo emiru Muratu da je kucnuo čas, on se odlučuje na pokret. Prvo na udaru je pogranično utvrđenje Pirot, čiji je kapetan Lazar Musić, knežev rođak, rešen pre da umre nego da Osmanlijama preda tvrđavu. Na samoj granici hrišćanstva, na bedemima ispred kojih se vijore crne zastave i ratni bubnjevi odjekuju u dugim noćima, bitka za kapije Evrope može da počne. „Stojiljković ume da ispriča sjajnu priču. Živopisan i visoko narativan stil, koji u umu slika i te kako dugotrajne slike.“ Markus Ejgar, Wild Rooster",
+        "brStrana": 336,
+        "datumIzdanja": "17. 11. 2017.",
+        "id_autor": 5,
+        "cirilica": true,
+        "tvrdPovez": false,
+        "slika": "duge_noci",
+        "cena" : {
+            "nova": 699.99,
+            "stara": 999.99
+        },
+        "zanr":[4,6]
+    },
+    {
+        "id": 6,
+        "naslov": "Nebeska dvorišta: Žive slike",
+        "opis": "Iz vazduha Bosna izgleda onakva kakva bi bila samo da nije nas. Odozgo se ne vidi zlo koje gamiže po zemlji, već samo njena nevina i na mahove divlja ljepota. Odricanje je zapravo potvrđivanje da odlaziš od nekoga ili od nečega da bi sačuvao ono dobro u sebi i da bi drugoga ili drugo sačuvao od sebe. Te sam večeri shvatio da će i moj zavičaj, i planina, i potoci, i šume, i proplanci, kao i lice moje majke, odsad za mene biti uspomena. Sve iz mog zavičaja postaće uspomena i to ne samo zato što idem u manastir, već i zbog toga što ne znam hoću li ikad više moći tamo da kročim. Proleće 1992. u Beogradu. Grad je uzavreo, košmar promena u svetu došao je na ulice, studenti protestuju dok figure nadolazećeg rata postaju opipljive. Naš junak, student teologije, čas je sam na obali razgoropađene reke, čas za govornicom s koje sve više odzvanja jeka umesto poruka. Zatečen glasovima o ratnom obruču koji se steže oko male, nekada skladne zajednice u planinskoj osami iz koje potiče, pokušava priskočiti u pomoć, da bi s preprekama na koje nailazi i sam rastao, čvrsto se držeći izbora manastirskog dvorišta, ne kao uzmaka iz sveta koliko dodira među svetovima: malim i velikim, ličnim i zajedničkim, zemaljskim i nebeskim. Snažna i potresna, ova se priča o životu, lepoti i stradanju drži vrednosti o kojima njen autor vladika Grigorije govori kada god uzme reč. Precizno i odmereno, škrtim a poetičnim slogom sročio je fragmentarnu sagu o maloj ali hrabroj zajednici koja brani svoje vekovno ognjište, alegoriju o malom čoveku na udaru pošasti rata koja se kristalizirala u odu Planinici, predelu nestvarne lepote, i čovekoj spremnosti na velike odluke i dela – u roman Nebeska dvorišta.",
+        "brStrana": 248,
+        "datumIzdanja": "13. 07. 2022.",
+        "id_autor": 6,
+        "cirilica": true,
+        "tvrdPovez": false,
+        "slika": "nebeska_dvorista",
+        "cena" : {
+            "nova": 629.99,
+            "stara": 899.99
+        }, 
+        "zanr":[3,6]
+    },
+    {
+        "id": 7,
+        "naslov": "Alhemičar",
+        "opis": "Oslušni svoje srce. Ono sve zna, jer je poteklo iz Duše Sveta i jednog dana će se u nju vratiti. Svakih nekoliko decenija izlazi knjiga koja zauvek menja živote svojih čitalaca. Alhemičar je takva knjiga. Sa više od sto pedeset miliona primeraka prodatih širom sveta, ovaj roman, koji je ušao u Ginisovu knjigu rekorda kao najprevođeniji na svetu, postao je savremeni klasik kome se svi dive. Priča o Santjagu, andaluzijskom pastiru koji odlazi u egipatsku pustinju kako bi našao skriveno blago, pleni jednostavnošću i inspiriše mudrošću. Niko ne zna kakvo je blago u pitanju ni da li će Santjago savladati prepreke koje mu stoje na putu, ali ono što počinje kao potraga za svetovnim bogatstvom pretvara se u traganje za bogatstvom koje se nalazi u nama samima. „Paulo Koeljo zna tajnu književne alhemije.“ – Kenzaburo Oe, dobitnik Nobelove nagrade za književnost „Mudra i inspirativna priča o hodočašću koje bi trebalo da bude kruna svakog života.“ – M. Skot Pek „Iako sebe ne smatra duhovnim vodičem, Paulo Koeljo je bio jedan od mojih velikih učitelja. Još držim Alhemičara pored kreveta i srećem druge koji rade isto.“ – Opra Vinfri",
+        "brStrana": 216,
+        "datumIzdanja": "22. 02. 2023.",
+        "id_autor": 7,
+        "cirilica": false,
+        "tvrdPovez": false,
+        "slika": "alhemicar",
+        "cena" : {
+            "nova": 629.99,
+            "stara": 899.99
+        },
+        "zanr":[3,5]
+    },
+    {
+        "id": 8,
+        "naslov": "Ruža pod ledom",
+        "opis": "Roman o svetu detinjstva i uspomena, satkan jezikom izgubljenog zavičaja. Kad su prišli izvoru koji se nalazi pored jedva vidljive staze, konj se naglo zaustavlja, gotovo ukopava. Konjanik s lakoćom skače iz sedla, ne ispuštajući uzde iz ruke. Pažnju mu je privuklo nešto nalik zaleđenom izdanu. Dotakao je ledeno okance onom istom rukom koja se mašila sablje... Otvorila se ledena školjka i, umjesto bisera, ukazao mu se pupoljak ruže. Neće proći dugo od tog susreta, a moj predak će dovesti svoju braću sa njihovim porodicama i naseliti ih oko izvora kod kojeg je nabasao na ružu pod ledom. „Svet koji Demić opisuje više ne postoji, osim u sećanju preživelih svedoka, a čitalac ima doživljaj da se, samo zbog njega, građenjem priče, sve obnavlja pred njegovim očima… Inspirisan senzibilitetom velikog Branka Ćopića, pripovedač kroz naočare pesnika i deteta daje sliku porodice s prijateljima i komšijama kao izvor suštinskog znanja o onome što nas okružuje.“ – Ljubica Arsić „Roman sadrži pedeset priča uokvirenih legendom o ruži pod ledom, početku porodičnog ’Postanja’, i posvećenih životu njegovih sunarodnika iz Hrvatske. Započinje događajem koji ima snažan simbolički karakter: susretom dalekog pretka i pripovedača, njegovog potomka, na razmeđi jave i sna, u ogledalu zaleđenog izdana. Autentičnost pripovedanja u romanu postiže se korišćenjem tehnike skaza u gotovo gnomskim dijalozima, jednostavnošću izraza i bogatstvom značenja, što sve doprinosi tome da ovaj roman bude univerzalna životna priča koju priča čovek na granici, bilo kad i bilo kojoj, pokušavajući bar na ovaj način da okupi svoj raseljeni svet.“ – Aleksandra Drakulić",
+        "brStrana": 186,
+        "datumIzdanja": "28. 01. 2023.",
+        "id_autor": 8,
+        "cirilica": true,
+        "tvrdPovez": false,
+        "slika": "ruza",
+        "cena" : {
+            "nova": 559.99,
+            "stara": 799.99
+        },
+        "zanr":[3,6,5]
+    }
+
+
+]

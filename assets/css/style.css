@@ -1,0 +1,98 @@
+/* GENERALNA PODESAVANJA STRANICE */
+*{
+    margin: 0px;
+    padding: 0px;
+    font-size: 2.5vh;
+}
+a{
+    font-weight: 700;
+    text-decoration: none;
+    color: black;
+}
+span{
+    font-weight: 700;
+}
+/* NAVIGACIJA */
+.active a{
+    color: white;
+}
+/* LOGO CONTAINER */
+.logo{
+    height: 10vh;
+    width: auto;
+}
+/* CAROUSEL NA POCETNOJ */
+#carouselExampleIndicators{
+    height: 70vh;
+}
+.carousel-inner, .carousel-item, .carousel-item img{
+    height: 100%;
+}
+/* MAIN CONTENT POCETNA */
+.mainContent{
+    padding: 0 5%;
+    box-sizing: border-box;
+}
+/* FOOTER */
+footer{
+    color: white;
+}
+/* ISPIS JEDNE KNJIGE */
+.knjiga img{
+    width: 70%;
+}
+.slikaDetalj{
+    width: 70%;
+    height: auto;
+}
+.knjiga{
+    position: relative;
+}
+.hoverKnjiga{
+    transition: .5s ease;
+    opacity: 0;
+    position: absolute;
+    top: 35%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    text-align: center;
+}
+.knjiga:hover .hoverKnjiga{
+    opacity: 1;
+}
+/* CENA ZA POJEDINACNU KNJIGU */
+#cena{
+    height: auto;
+}
+/* UREDJIVANJE LISTE I KORPE */
+#prikazKorpe, #prikazListe, #kolKorpa, #kolLista{
+    padding: 1vh 0;
+    margin: 0;
+    height: auto;
+    width: 20%;
+}
+/* NASLOVNA SLIKA STRANICE O NAMA */
+#oNama{
+    height:40vh;
+    width: 100%;
+    background-image: url("../img/oNama.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+/* NASLOVNA SLIKA STRANICE KONTAKT */
+#kontakt{
+    height:40vh;
+    width: 100%;
+    background-image: url("../img/kontakt.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+/* OPIS KNJIGE ZA MANJE REZOLUCIJE */
+#maliOpis{
+    display: none;
+    padding: 0 5%;
+    box-sizing: border-box;
+}

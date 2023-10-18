@@ -1,0 +1,31 @@
+
+@media screen and (max-width: 850px) {
+    #prikazKorpe, #prikazListe, #kolKorpa, #kolLista{
+        width: 25%;
+    }
+}
+@media screen and (max-width: 425px) {
+    #prikazKorpe, #prikazListe, #kolKorpa, #kolLista{
+        width: 30%;
+    }
+    #carouselExampleIndicators{
+        height: 50vh;
+    }
+    #maliOpis{
+        display: block;
+    }
+    #opisVeliki{
+        display: none;
+    }
+    #oNama{
+        background-size: contain;
+    }
+}
+@media screen and (max-width: 320px) {
+    #prikazKorpe, #prikazListe, #kolKorpa, #kolLista{
+        width: 40%;
+    }
+    #carouselExampleIndicators{
+        height: 35vh;
+    }
+}

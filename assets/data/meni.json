@@ -1,0 +1,18 @@
+[
+    {
+        "nazivStranice": "Početna",
+        "url": "index.html"
+    },
+    {
+        "nazivStranice": "Knjige",
+        "url": "knjige.html"
+    },
+    {
+        "nazivStranice": "O nama",
+        "url": "about.html"
+    },
+    {
+        "nazivStranice": "Kontakt",
+        "url": "kontakt.html"
+    }
+]

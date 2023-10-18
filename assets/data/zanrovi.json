@@ -1,0 +1,30 @@
+[
+    {
+        "id" : 1,
+        "kategorija": "Triler"
+    },
+    {
+        "id" : 2,
+        "kategorija": "Ljubavni"
+    },
+    {
+        "id" : 3,
+        "kategorija": "Drama"
+    },
+    {
+        "id" : 4,
+        "kategorija": "Istorijski"
+    },
+    {
+        "id" : 5,
+        "kategorija": "E-knjige"
+    },
+    {
+        "id" : 6,
+        "kategorija": "Domaći autori"
+    },
+    {
+        "id": 7,
+        "kategorija": "Ekranizovane knjige"
+    }
+]

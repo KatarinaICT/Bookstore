@@ -1,0 +1,82 @@
+[
+    {
+        "id" : 1,
+        "ime" : "Vanja",
+        "prezime" : "Bulić"
+    },
+    {
+        "id" : 2,
+        "ime" : "Sofi",
+        "prezime" : "Kinsela"
+    },
+    {
+        "id" : 3,
+        "ime" : "Džorž",
+        "prezime" : "Eliot"
+    },
+    {
+        "id" : 4,
+        "ime" : "Vuk",
+        "prezime" : "Drašković"
+    },
+    {
+        "id" : 5,
+        "ime" : "Dejan",
+        "prezime" : "Stojiljković"
+    },
+    {
+        "id" : 6,
+        "ime" : "Vladika",
+        "prezime" : "Grigorije"
+    },
+    {
+        "id" : 7,
+        "ime" : "Paulo",
+        "prezime" : "Koeljo"
+    },
+    {
+        "id" : 8,
+        "ime" : "Mirko",
+        "prezime" : "Demić"
+    },
+    {
+        "id" : 9,
+        "ime" : "Marko",
+        "prezime" : "Popić"
+    },
+    {
+        "id" : 10,
+        "ime" : "Andrea",
+        "prezime" : "Barc"
+    },
+    {
+        "id" : 11,
+        "ime" : "Džejms",
+        "prezime" : "Paterson"
+    },
+    {
+        "id" : 12,
+        "ime" : "Dejan",
+        "prezime" : "Tiago-Stanković"
+    },
+    {
+        "id" : 13,
+        "ime" : "Mirjana",
+        "prezime" : "Novaković"
+    },
+    {
+        "id" : 14,
+        "ime" : "Natali",
+        "prezime" : "Koks"
+    },
+    {
+        "id" : 15,
+        "ime" : "Kler",
+        "prezime" : "Puli"
+    },
+    {
+        "id" : 16,
+        "ime" : "Salome",
+        "prezime" : "Bodino"
+    }
+]

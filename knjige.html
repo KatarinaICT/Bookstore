@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>BookStore</title>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <!-- <link rel="shortcut icon" href="assets/img/logo.ico" type="image/x-icon"> -->
+        <meta name="author" content="Katarina Milićević">
+        <meta name="description" content="Izdavačka kuća BookStore osnovana je marta 2001. godine. Od skromnih početaka sa nekoliko objavljenih naslova za godinu dana došli smo do produkcije od preko tri stotine objavljenih naslova godišnje..">
+        <meta name="keywords" content="Knjižara, knjige, romani, zbirke, poezija">
+        <script src="https://kit.fontawesome.com/e97de645aa.js" crossorigin="anonymous"></script>
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+        <link rel="stylesheet" href="assets/css/style.css">
+        <link rel="stylesheet" href="assets/css/responsive.css">
+    </head>
+    <body>
+        <!-- ZAGLAVLJE -->
+        <div class="container-fluid">
+          <div class="row d-flex align-items-center justify-content-end my-2">
+            <div class="col-4 col-sm-7">
+              <div class="row mt-2 justify-content-end logo">
+                <img src="assets/img/logoNav.png" alt="Logo" class="logo">
+              </div>
+            </div>
+            <div class="col-8 col-sm-5 d-flex align-items-center justify-content-end btnIkonica mt-2">
+                <a class="btn btn-dark me-3 row d-flex justify-content-center text-secondary" id="prikazKorpe" data-bs-toggle="modal" data-bs-target="#exampleModal">
+                  <!-- <div class="row align-content-center flex-wrap d-flex justify-content-center text-secondary"> -->
+                    <div class="col-2  align-self-center">
+                      <i class='fas fa-shopping-basket'></i>
+                    </div>
+                    <div class="col-2 me-3 align-self-center">
+                      <p id="kolKorpa"></p>
+                    </div>
+                  <!-- </div> -->
+                </a>
+                <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                  <div class="modal-dialog">
+                    <div class="modal-content">
+                      <div class="modal-header">
+                        <h5 class="modal-title" id="exampleModalLabel">Korpa</h5>
+                        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                      </div>
+                      <div class="modal-body" id="korpa">
+                            
+                      </div>
+                      <div class="modal-footer">
+                        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Zatvori</button>
+                        <button type="button" class="btn btn-primary kupi">Kupi</button>
+                      </div>
+                    </div>
+                  </div>
+              </div>
+              <a class="btn btn-dark me-3 row d-flex justify-content-center text-secondary" id="prikazListe" data-bs-toggle="modal" data-bs-target="#exampleModal2">
+                <!-- <div class="row align-items-center d-flex justify-content-center text-secondary"> -->
+                  <div class="col-2 align-self-center">
+                    <i class='fas fa-heart'></i>
+                  </div>
+                  <div class="col-2 me-3">
+                    <p id="kolLista"></p>
+                  </div>
+                <!-- </div> -->
+                </a>    
+              <div class="modal fade" id="exampleModal2" tabindex="-1" aria-labelledby="exampleModal2Label" aria-hidden="true">
+                <div class="modal-dialog">
+                  <div class="modal-content">
+                    <div class="modal-header">
+                      <h5 class="modal-title" id="exampleModal2Label">Lista želja</h5>
+                      <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                    </div>
+                    <div class="modal-body" id="lista">
+                          
+                    </div>
+                    <div class="modal-footer">
+                      <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Zatvori</button>
+                    </div>
+                  </div>
+                </div>
+    
+              </div>
+            </div>        
+          </div>
+        </div>
+      <!-- NAVIGACIJA -->
+      <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+          <div class="container-fluid">
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+              <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+              <ul class="navbar-nav col-12 navUl">
+                
+              </ul>
+            </div>
+          </div>
+      </nav>
+      <!-- MAIN CONTENT -->
+      <div class="container-fluid mb-5">
+        <div class="row">
+            <!-- ZANROVI -->
+            <div class="col-sm-3 col-lg-2 mt-4 zanrovi"></div>
+            <!-- SVE KNJIGE, FILTERI -->
+            <div class="col-sm-9 col-lg-10">
+              <!-- FILTERI -->
+                <div class="row justify-content-between mt-3 mb-3">
+                  <!-- SORTIRANJE -->
+                    <div class="col-5">
+                        <select class="form-select" id="ddlSort" aria-label="Default select example">
+                            <option value="0" selected>Sortiraj po..</option>
+                            <option value="cena-desc">Cena opadajuće</em></option>
+                            <option value="cena-asc">Cena rastuće</option>
+                            <option value="naziv-asc">Naziv A-Z</option>
+                            <option value="naziv-desc">Naziv Z-A</option>
+                          </select>
+                    </div>
+                    <!-- SEARCH -->
+                    <div class="col-5">
+                        <form class="d-flex">
+                            <input class="form-control me-2" type="search" id="search" placeholder="Search" aria-label="Search">
+                            <button class="btn btn-outline-success" type="submit">Search</button>
+                          </form>
+                    </div>
+                </div>
+                <!-- KNJIGE -->
+                <div class="row" id="sveKnjige"></div>
+            </div>
+        </div>
+      </div>
+      <!-- FOOTER -->
+      <footer class="bg-dark d-flex align-items-center">
+        <p class="mx-auto mt-3"> &copy; Katarina Milićević 2023.</p>
+      </div>
+      <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+        <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+        <script src="assets/js/main.js"></script>
+    </footer>
+    </body>
+</html>
